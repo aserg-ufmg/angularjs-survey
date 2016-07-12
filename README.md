@@ -1,4 +1,4 @@
-# AngularJS Performance: A Survey Study
+# AngularJS Study
 
 ## Phase 1: Mapping Study 
 
