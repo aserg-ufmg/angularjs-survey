@@ -316,3 +316,5 @@
 > Some places seem to use the controller function for directive logic and other use link. The tabs example on the angular homepage uses controller for one and link for other directive. What is the difference between two?
 
 ## Phase 2: Survey
+
+https://github.com/aserg-ufmg/angularjs-survey/blob/master/AngularJSGeneralSurvey.pdf
