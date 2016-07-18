@@ -6,7 +6,7 @@
 * Access date: September-2015
 * URL: https://docs.angularjs.org/guide/unit-testing
 
-> One of the most useful parts of ngMock is \$httpBackend, which lets us mock XHR requests in tests, and return sample data instead.
+> One of the most useful parts of ngMock is `$httpBackend`, which lets us mock XHR requests in tests, and return sample data instead.
 
 > Angular is written with testability in mind, but it still requires that you do the right thing. We tried to make the right thing easy, but if you ignore these guidelines you may end up with an untestable application.
 
@@ -292,7 +292,7 @@
 * Access date: September-2015
 * URL: http://stackoverflow.com/q/15112584
 
-> I don't understand how to use `\$scope.\$watch` and `\$scope.\$apply`. The official documentation isn't helpful.
+> I don't understand how to use `$scope.$watch` and `$scope.$apply`. The official documentation isn't helpful.
 
 #### [Q&A9] What Does $scope.$apply() Do?
 * Access date: September-2015
